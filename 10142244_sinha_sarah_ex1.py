@@ -231,6 +231,6 @@ viz_data(X_incorrect)
 Looking for something else  to do?
 - Transform your code to do hyperparameter search. 
 - You can vary the number of nodes in the layers, the drop out rate, the optimizer and the parameters in Adam, the batch size, etc.
-
+print('hello world')
 """
 
